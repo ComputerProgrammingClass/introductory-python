@@ -1,0 +1,7 @@
+September 27, 2024
+
+- functions review
+- function return values
+- lists
+- tuples
+- coding naming conventions
